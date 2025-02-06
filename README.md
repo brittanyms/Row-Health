@@ -1,4 +1,4 @@
-# Row Health Marketing Insights - Project Overview
+# Row Health Marketing Analytics - Project Overview
 ## The goal of this project is to investigate the performance of marketing campaigns at Row Health in order to provide recommendations on marketing budget allocation across future campaign categories. 
 
 **Founded in 2016, Row Health is a medical insurance company serving over thousands of customers throughout the United States**. **In 2019, they launched a new set of marketing campaign categories** spanning topics like wellness tips, the affordability of their plans, and preventative care. Customers may choose from 4 different plans - bronze, silver, gold, and platinum - each with different premiums and claim coverage rates. 
